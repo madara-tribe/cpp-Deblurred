@@ -24,4 +24,8 @@ $ ./deblur
 <img src="https://github.com/user-attachments/assets/b32fcd19-fc5f-4f7f-bb44-19203ed107d5" width="400px" height="300px"/><img src="https://github.com/user-attachments/assets/46d6d932-9458-4c9f-b571-de7ba31a0606" width="400px" height="300px"/>
 
 
+# References
+・[opencv:Out-of-focus Deblur Filter](https://docs.opencv.org/4.x/de/d3c/tutorial_out_of_focus_deblur_filter.html#autotoc_md765)
+・[image- deblurred](https://github.com/navyajain16/Image-Deblurring)
+・[psf2otf](https://github.com/aboucaud/pypher/blob/master/pypher/pypher.py)
 
