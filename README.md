@@ -21,7 +21,8 @@ $ ./deblur
 ## result
 <b>・original/deblurred</b>
 
-<img src="https://github.com/user-attachments/assets/b32fcd19-fc5f-4f7f-bb44-19203ed107d5" width="400px" height="300px"/><img src="https://github.com/user-attachments/assets/46d6d932-9458-4c9f-b571-de7ba31a0606" width="400px" height="300px"/>
+<img src="https://github.com/user-attachments/assets/929b432d-92fc-4c35-9aa7-134d2757bb20" width="400px" height="300px"/><img src="https://github.com/user-attachments/assets/31c25d59-8526-482a-b39a-1f4e2ba60ab7" width="400px" height="300px"/>
+
 
 
 # References
